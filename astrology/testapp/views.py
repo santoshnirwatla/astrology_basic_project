@@ -3,7 +3,7 @@ import datetime
 import random 
 # Create your views here.
 
-def astroinfo(request):
+def astroinfo_view(request):
     list_msg=['coming days is very nice days',
               'now your time is well as you thinking',
               'upcoming generation is going very fast',
